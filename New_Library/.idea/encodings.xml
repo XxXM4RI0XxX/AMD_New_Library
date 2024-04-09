@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/Library_II/ConsoleReader.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/Library_II/Controllers/DateConstructor.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/Library_II/Controllers/EntitiesConstructors.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/Library_II/Controllers/EntitiesModifier.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/Library_II/Controllers/Filters/BookFilter.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/Library_II/Controllers/Filters/TransactionFilter.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/Library_II/Controllers/IdGenerator.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/Library_II/Controllers/IsbnConstructor.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/Library_II/Controllers/Login.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/Library_II/Controllers/MainController.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/Library_II/Controllers/OperationControllers.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/Library_II/Controllers/OptionMenu.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/Library_II/Entities/Author.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/Library_II/Entities/Book.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/Library_II/Entities/Client.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/Library_II/Entities/Profile.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/Library_II/Entities/Transaction.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/Library_II/Entities/User.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/Library_II/Repositories/AdminRepository.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/Library_II/Repositories/AuthorRepository.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/Library_II/Repositories/BookRepository.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/Library_II/Repositories/ClientRepository.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/Library_II/Repositories/TransactionRepository.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/Library_II/Seeder.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/Library_II/Test_class.java" charset="windows-1252" />
+  </component>
+</project>
